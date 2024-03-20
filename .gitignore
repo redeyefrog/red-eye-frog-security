@@ -1,0 +1,10 @@
+### Common ###
+target
+src/test/
+log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
